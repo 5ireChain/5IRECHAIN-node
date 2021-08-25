@@ -3,11 +3,7 @@
 5IRECHAIN is a sustainability EVM Compatible chain built on the next-generation blockchain framework substrate, the first of its kind with a cutting edge efficient secure scalable and speedy consensus "Fire score" that incentivized all the network participant to show activities on-chain that are compatible with a for-benefit paradigm driven by a charity perspective and appliance with the 17 United Nations Sustainable Development Goals.
 
 
-A fresh FRAME-based [Substrate] node, ready for exploring Beta version :rocket:
 
-## Getting Started
-
-Follow the steps below to get started with the Node Template, :hammer_and_wrench:
 
 ### Using Nix
 
